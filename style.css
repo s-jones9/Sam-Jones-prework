@@ -1,6 +1,25 @@
 body {
+  background-color: rgb(114, 193, 196);
   margin: 0;
-  line-height: 1.5;
+  line-height: 2.0;
   text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;  
+  
 }
 
+.alpha{
+  text-align: center;
+
+  
+}
+#bravo{
+  color: white;
+  font-size: 60px;
+  font-weight: 650px;
+}
+button{
+  background-color: rgb(114, 193, 196);
+  color: white;
+  border: 2px solid white;
+}
+  
