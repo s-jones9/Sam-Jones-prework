@@ -5,11 +5,15 @@
   text-transform: uppercase;
   font-family: Arial, Helvetica, sans-serif;
 }
+.jumbotron {
+  margin: 25% auto;
+  justify-content:center;
+}
 nav{
   color: white;
 }
 
 h1 {
   color: white;
+  font-size: 50px;
 }
-\\
