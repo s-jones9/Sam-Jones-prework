@@ -1,0 +1,42 @@
+#logo{
+    background-color: #4aaaa5;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    color: white;
+    height: 75px;
+    padding-top: 20px;
+    
+
+    
+}
+header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+body{
+    background-color: #dddddd ;
+}
+
+#container1{
+    background-color: #ffffff;
+    height: max-content;
+}
+
+header{
+    color: #4aaaa5;
+}
+
+img{
+    float: left;
+    overflow: auto;
+}
+#subm1t{
+    background-color: #4aaaa5;
+    color: white;
+    border: none;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    margin-left: 50%;
+    background-color: #666666;
+}
