@@ -1,0 +1,52 @@
+h1,
+h2,
+h6{
+    font-family: 'Playfair Display SC', serif;
+    color:black;
+}
+
+h1 {
+    letter-spacing: 9px;
+    color: rgb(54, 78, 126);
+    font-size: 5rem;
+}
+
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 20;
+    color: black;
+}
+body {
+    background-color: rgb(167, 167, 167);
+
+}
+
+#current-word {
+    font-size: 2rem; 
+}
+
+#letters-guessed {
+    font-size: 2rem;
+    
+}
+
+
+.separator-dark {
+    border-bottom: 1px solid #565656;
+}
+
+#letterAlreadyGuess,
+#remainingGuess,
+#secretWord,
+#numberOfWins {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #565656;
+}
+
+.message-congrats,
+.message-gameover {
+    text-shadow: 0 0 20px rgb(54, 78, 126), 1px 1px 20px rgb(54, 78, 126), 2px 2px 20px rgb(54, 78, 126), -1px -1px 20px rgb(54, 78, 126), -2px -2px 20px rgb(54, 78, 126);
+    font-weight: 600;
+}
