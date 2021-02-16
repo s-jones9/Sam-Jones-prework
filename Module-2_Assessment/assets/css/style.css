@@ -32,10 +32,6 @@ body {
 }
 
 
-.separator-dark {
-    border-bottom: 1px solid #565656;
-}
-
 #letterAlreadyGuess,
 #remainingGuess,
 #secretWord,
